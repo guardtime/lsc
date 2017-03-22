@@ -1,0 +1,8 @@
+.idea
+signatureconverter.iml
+target
+signatureconverter-app/signatureconverter-app.iml
+signatureconverter-app/target
+signatureconverter-lib/src/test/resources/test.properties
+signatureconverter-lib/target
+signatureconverter-lib/signatureconverter-lib.iml

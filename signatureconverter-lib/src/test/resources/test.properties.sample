@@ -1,0 +1,5 @@
+extender.url=http://extender-url
+extender.login.user=user
+extender.login.key=key
+publicationsfile.url=http://publications-file-url
+publicationsfile.constraint=[publications file cert constraint string. For example: E=publications@url.com]
