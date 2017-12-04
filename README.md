@@ -58,12 +58,12 @@ Code example:
 
 ## Dependencies ##
 
-| Dependency                     | Version | License type | Source                                                 | Notes |
-|:-------------------------------|:--------|:-------------|:-------------------------------------------------------|:------|
-| ksi-api                        | 4.6.80  | Apache 2.0   | https://github.com/guardtime/ksi-java-sdk              |       |
-| ksi-service-client-simple-http | 4.6.80  | Apache 2.0   | https://github.com/guardtime/ksi-java-sdk              |       |
-| slf4j-api                      | 1.7.14  | MIT          | https://www.slf4j.org/download.html                    |       |
-| commons-cli                    | 1.3.1   | Apache 2.0   | http://svn.apache.org/viewvc/commons/proper/cli/trunk/ |       |
+| Dependency                     | Version  | License type | Source                                                 | Notes |
+|:-------------------------------|:---------|:-------------|:-------------------------------------------------------|:------|
+| ksi-api                        | 4.10.117 | Apache 2.0   | https://github.com/guardtime/ksi-java-sdk              |       |
+| ksi-service-client-simple-http | 4.10.117 | Apache 2.0   | https://github.com/guardtime/ksi-java-sdk              |       |
+| slf4j-api                      | 1.7.14   | MIT          | https://www.slf4j.org/download.html                    |       |
+| commons-cli                    | 1.3.1    | Apache 2.0   | http://svn.apache.org/viewvc/commons/proper/cli/trunk/ |       |
 
 All dependencies are automatically included in the built JAR file.
 
